@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![nineis7's github stats](https://github-readme-stats.vercel.app/api?username=nineis7&show_icons=true&theme=tokyonight)
+
 Meet me in G_fs_Notes 😄
 
 <!--
